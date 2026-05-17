@@ -13,7 +13,7 @@ export const about = {
   years_experience: '2+',
   projects_completed: '10+',
   gpa: '3.85',
-  resume_url: 'https://drive.google.com/file/d/1_uWFtjwOE5rKddcQSVw8HaDgQ2N81IHS/view?usp=sharing',
+  resume_url: 'https://drive.google.com/file/d/1AFbuoHoQrAB9npM7ZfDSn53F00lRWyeb/view?usp=sharing',
   image_url: '/images/foto-dika.png',
 };
 
